@@ -5,7 +5,7 @@
 ## 🖥️ Projects
 Below is the list of projects I've developed
 
-- [House Sales USA](#project-1-:-house-sales-usa)
+- [House Sales USA](#project-1-house-sales-usa)
 - [Data Visualization & Dashboard](#data-visualization-and-dashboard)
 
 ## 📊 Project 1: House Sales USA
