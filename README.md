@@ -1,6 +1,6 @@
 <h1 align="center">Data Analysis</h1>
 
-<h3 align="center">✨Welcome to my projects focused on Exploratory Data Analysis (EDA) and Data Visualization✨</h2>
+<h3 align="center">✨Welcome to my Exploratory Data Analysis (EDA) and Data Visualization projects✨</h2>
 
 ## 🖥️ Projects
 Below is the list of projects I've developed
