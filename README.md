@@ -1,29 +1,4 @@
-# Data Analysis Projects
-Para configurar o ambiente, veja a seção [Configuração do Ambiente](#configuração-do-ambiente).
+<h1 align="center">Data Analysis</h1>
 
-## House
+<div align="center">✨Welcome to my projects focused on Exploratory Data Analysis (EDA) and Data Visualization✨</div>
 
-a
-a
-a
-a
-a
-a
-a
-aaa
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-
-
-acesse aqui [Project House Sales USA](#House)
-
-
-## Configuração do Ambiente
