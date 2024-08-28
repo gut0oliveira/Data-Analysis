@@ -2,7 +2,7 @@
 
 <h3 align="center">✨Welcome to my projects focused on Exploratory Data Analysis (EDA) and Data Visualization✨</h2>
 
-## Projects
+## 🖥️ Projects
 Below is the list of projects I've developed
 
 - [House Sales USA](#house-sales-usa)
