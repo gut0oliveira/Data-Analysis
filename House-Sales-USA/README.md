@@ -44,13 +44,13 @@
 
 <h1 align="left">📈Charts</h1>
 
-<h3 align="left">📚Boxplot</h1>
+<h3 align="left">📉Boxplot</h1>
 
 - The box plot was used to determine whether houses with a waterfront view or without a waterfront view have more price outliers.
 
 
 
-<h3 align="left">📚Regplot</h1>
+<h3 align="left">📉Regplot</h1>
 
 - The regression plot was used to determine if the feature sqft_above is negatively or positively correlated with price.
 
