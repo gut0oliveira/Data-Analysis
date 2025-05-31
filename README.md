@@ -25,7 +25,3 @@ In this project, acting as a Data Analyst, I created plots and a dashboard to vi
 To access it, click the link to be redirected to the project page👇🏻
 - [Data Visualization and Dashboards](https://github.com/gut0oliveira/Data-Analysis-Insights/tree/main/Data-Visualization-Dashboards)
 </br>
-</br>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=28&duration=2500&pause=200&color=2800F7&center=true&width=800&lines=Thanks+for+your+attention!;" />
-</h1>
